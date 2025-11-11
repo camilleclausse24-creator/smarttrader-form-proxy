@@ -67,7 +67,7 @@ async function handleForm(req, res) {
         </style>
       </head>
       <body>
-        <img src="https://files.oaiusercontent.com/file_00000000cc3c722f86f9a41541d58661/copy_a10db606-d059-4e37-91d0-8b32cb52d33a-ulojuzkhbvhcKTox.GIF" alt="SmartTrader" />
+        <img src="https://assets.zyrosite.com/Cn4FvBvoJDP0YoBM/copy_a10db606-d059-4e37-91d0-8b32cb52d33a-ulojuzkhbvhcKTox.GIF" />
         <p id="phrase">Connexion à SmartTrader...</p>
 
         <script>
