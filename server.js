@@ -28,7 +28,7 @@ async function handleForm(req, res) {
     <html lang="fr">
       <head>
         <meta charset="UTF-8" />
-        <title></title>
+        <title>SmartTrader | Redirection vers notre canal Telegram...</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body style="margin:0;display:flex;align-items:center;justify-content:center;height:100vh;font-family:Arial,sans-serif;background:#0d1117;color:#fff;">
